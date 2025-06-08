@@ -45,7 +45,7 @@ Create a .env file
 
 Add your API key or proxy link if needed
 📦 Tech Stack
-Frontend: React, TailwindCSS, Lucide Icons
+Frontend: React, TailwindCSS, Lucide Icons,aceternityUI
 
 State Management: useState, useEffect
 
